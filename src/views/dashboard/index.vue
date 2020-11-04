@@ -1,5 +1,5 @@
 <template>
-  <div class="app-container">
+  <div class="app-content">
     <el-card shadow="hover">
       <div class="dashboard-text">name: {{ userinfo.username }}</div>
       <div class="dashboard-text">
